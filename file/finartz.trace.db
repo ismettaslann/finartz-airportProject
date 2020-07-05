@@ -1,0 +1,3 @@
+2020-07-04 11:16:12 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "AIRPORTS[*]"; expected "ALTER, ANALYZE"; SQL statement:
+AIRPORTS [42001-200]
